@@ -1,5 +1,5 @@
 # Arm-Processor
-### Credit to: Liyuan Wang, Dinggao Pan
+### Credit to: L.Wang, Dinggao Pan
 This is a 64-bit Arm CPU with pipelining developed in Verilog. 
 The instruction set of the CPU is listed below:
   - ADDI Rd, Rn, Imm12: Reg[Rd] = Reg[Rn] + ZeroExtend(Imm12).
