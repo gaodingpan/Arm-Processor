@@ -1,0 +1,216 @@
+# Reading D:/altera_lite/16.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/adder_64.sv 
+# -- Compiling module adder_64
+# 
+# Top level modules:
+# 	adder_64
+# End time: 04:37:45 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/datamem.sv 
+# -- Compiling module datamem
+# -- Compiling module datamem_testbench
+# 
+# Top level modules:
+# 	datamem_testbench
+# End time: 04:37:45 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/alu.sv 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 04:37:45 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/fulladder.sv 
+# -- Compiling module fulladder
+# 
+# Top level modules:
+# 	fulladder
+# End time: 04:37:45 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/instructmem.sv 
+# -- Compiling module instructmem
+# -- Compiling module instructmem_testbench
+# 
+# Top level modules:
+# 	instructmem_testbench
+# End time: 04:37:45 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:45 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/math.sv 
+# -- Compiling module mult
+# -- Compiling module shifter
+# -- Compiling module shifter_testbench
+# -- Compiling module mult_testbench
+# 
+# Top level modules:
+# 	shifter_testbench
+# 	mult_testbench
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/pipeLinedCPU.sv 
+# -- Compiling module pipeLinedCPU
+# -- Compiling module pipeLinedCPU_testbench
+# 
+# Top level modules:
+# 	pipeLinedCPU_testbench
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/control.sv 
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/programCounter.sv 
+# -- Compiling module programCounter
+# 
+# Top level modules:
+# 	programCounter
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/regfile.sv 
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	regfile
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/singleReg.sv 
+# -- Compiling module singleReg
+# 
+# Top level modules:
+# 	singleReg
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/fiveTo32Dec.sv 
+# -- Compiling module fiveTo32Dec
+# 
+# Top level modules:
+# 	fiveTo32Dec
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/two2FourDec.sv 
+# -- Compiling module two2FourDec
+# 
+# Top level modules:
+# 	two2FourDec
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/three2EightDec.sv 
+# -- Compiling module three2EightDec
+# 
+# Top level modules:
+# 	three2EightDec
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/mux32_1.sv 
+# -- Compiling module mux32_1
+# -- Compiling module mux32_1_testbench
+# 
+# Top level modules:
+# 	mux32_1_testbench
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/mux8_1.sv 
+# -- Compiling module mux8_1
+# -- Compiling module mux8_1_testbench
+# 
+# Top level modules:
+# 	mux8_1_testbench
+# End time: 04:37:46 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:46 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/mux4_1.sv 
+# -- Compiling module mux4_1
+# -- Compiling module mux4_1_testbench
+# 
+# Top level modules:
+# 	mux4_1_testbench
+# End time: 04:37:47 on Dec 09,2016, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:47 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/mux2_1.sv 
+# -- Compiling module mux2_1
+# -- Compiling module mux2_1_testbench
+# 
+# Top level modules:
+# 	mux2_1_testbench
+# End time: 04:37:47 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+# Start time: 04:37:47 on Dec 09,2016
+# vlog -reportprogress 300 ./Codes/DFF.sv 
+# -- Compiling module D_FF
+# 
+# Top level modules:
+# 	D_FF
+# End time: 04:37:47 on Dec 09,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work pipeLinedCPU_testbench 
+# Start time: 04:37:47 on Dec 09,2016
+# Loading sv_std.std
+# Loading work.pipeLinedCPU_testbench
+# Loading work.pipeLinedCPU
+# Loading work.control
+# Loading work.programCounter
+# Loading work.adder_64
+# Loading work.fulladder
+# Loading work.instructmem
+# Loading work.regfile
+# Loading work.fiveTo32Dec
+# Loading work.two2FourDec
+# Loading work.three2EightDec
+# Loading work.singleReg
+# Loading work.alu
+# Loading work.mux2_1
+# Loading work.datamem
+# Loading work.D_FF
+# Loading work.mux32_1
+# Loading work.mux8_1
+# Loading work.mux4_1
+# ** Error: (vsim-3837) ./Codes/pipeLinedCPU.sv(100): Variable '/pipeLinedCPU_testbench/dut/rtZero[0]' written by more than one continuous assignment. See ./Codes/pipeLinedCPU.sv(58).
+#    Time: 0 ps  Iteration: 0  Region: /pipeLinedCPU_testbench/dut/eachData[0] File: ./Codes/pipeLinedCPU.sv
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runlab.do PAUSED at line 30
+# End time: 04:39:55 on Dec 09,2016, Elapsed time: 0:02:08
+# Errors: 1, Warnings: 0
